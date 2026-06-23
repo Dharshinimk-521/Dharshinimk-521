@@ -1,19 +1,21 @@
 <img src="./banner.svg" alt="Banner" width="100%" />
 
 <p align="center">
-  
-  <a href="https://www.linkedin.com/in/dharshini-m-k/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Dharshinimk-521">
-    <img src="https://img.shields.io/github/followers/Dharshinimk-521?label=GitHub%20Followers&style=for-the-badge" />
+
+  <a href="https://www.linkedin.com/in/dharshini-m-k/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=Dharshinimk-521&label=Profile%20views&color=0e75b6&style=flat" />
-  
-  <a href="https://x.com/dharshini_521">
-    <img src="https://img.shields.io/twitter/follow/dharshini_521?style=for-the-badge&logo=x" />
+  <a href="https://github.com/Dharshinimk-521" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <a href="https://x.com/dharshini_521" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow-FFFFFF?style=for-the-badge&logo=x&logoColor=black" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=Dharshinimk-521&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
 </p>
 
 ## About Me
