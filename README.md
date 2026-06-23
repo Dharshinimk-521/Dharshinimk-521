@@ -7,10 +7,6 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Dharshinimk-521">
-    <img src="https://img.shields.io/github/followers/Dharshinimk-521?label=Follow&style=for-the-badge" />
-  </a>
-
   <a href="https://www.linkedin.com/in/dharshini-m-k/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
