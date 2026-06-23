@@ -27,7 +27,7 @@ I enjoy building things that solve meaningful problems. The moment a carefully t
 
 ## 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Dharshinimk-521&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=Dharshinimk-521&show_icons=true&theme=dark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshinimk-521&layout=compact&theme=dark)
 
