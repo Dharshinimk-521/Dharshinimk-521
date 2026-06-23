@@ -15,19 +15,17 @@
 </p>
 
 ## About Me
-I am currently a student. Vist my linkedIn profile to know more about me.
-I am particularly curious about Full Stack Development(MERN Stack) , Cloud Computing, Data Science, and Artificial Intelligence. 
-What excites me most about tech is the moment when a solution works as intended after thoughtful effort, that sense of clarity and correctness motivates me to keep going.
 
-I enjoy building things that solve meaningful problems. The moment a carefully thought-out solution works as expected after hours of learning, debugging, and refinement is what drives me to keep creating.
+I am a Computer Science student currently focused on full-stack development (MERN stack) and system-building projects. I enjoy turning ideas into functional applications and learning through building.
+
+My interests include web development, cloud computing, and scalable backend systems. I am particularly motivated by solving real-world problems through software and seeing ideas work after thoughtful implementation.
 
 ## 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Dharshinimk-521&show_icons=true&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshinimk-521&layout=compact&theme=dark&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=Dharshinimk-521&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharshinimk-521&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshinimk-521&layout=compact&theme=dark&hide_border=true" height="160"/>
+</p>
 
 ## Recent Projects
 
@@ -54,7 +52,7 @@ Automatically parses IRCTC train and KSRTC bus booking confirmation emails from 
 ## 🤝 Let's Connect
 
 📧 Email: mkdharshini11@gmail.com
-💼 LinkedIn: www.linkedin.com/in/dharshini-m-k
+💼 LinkedIn: https://www.linkedin.com/in/dharshini-m-k/
 
 <!--
 **Dharshinimk-521/Dharshinimk-521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
