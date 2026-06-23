@@ -1,94 +1,52 @@
-```svg
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
 
-  
+  <!-- Background -->
   <rect width="1200" height="400" fill="#0D1117"/>
 
-  
-  <defs>
-    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="400" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#58A6FF"/>
-      <stop offset="1" stop-color="#7C3AED"/>
-    </linearGradient>
-  </defs>
+  <!-- Subtle accent line -->
+  <rect x="0" y="0" width="1200" height="4" fill="#58A6FF"/>
 
-  
-  <circle cx="1040" cy="90" r="90" fill="url(#accent)" opacity="0.08"/>
-  <circle cx="1130" cy="300" r="140" fill="url(#accent)" opacity="0.06"/>
-
-  
-  <g opacity="0.12">
-    <circle cx="920" cy="80" r="2" fill="#58A6FF"/>
-    <circle cx="950" cy="80" r="2" fill="#58A6FF"/>
-    <circle cx="980" cy="80" r="2" fill="#58A6FF"/>
-
-    <circle cx="920" cy="110" r="2" fill="#58A6FF"/>
-    <circle cx="950" cy="110" r="2" fill="#58A6FF"/>
-    <circle cx="980" cy="110" r="2" fill="#58A6FF"/>
-
-    <circle cx="920" cy="140" r="2" fill="#58A6FF"/>
-    <circle cx="950" cy="140" r="2" fill="#58A6FF"/>
-    <circle cx="980" cy="140" r="2" fill="#58A6FF"/>
-  </g>
-
-  
+  <!-- LEFT TEXT -->
   <text
-    x="90"
-    y="165"
+    x="80"
+    y="180"
     fill="#FFFFFF"
     font-family="Arial, Helvetica, sans-serif"
-    font-size="56"
+    font-size="52"
     font-weight="700">
-    Hi , I'm Dharshini M K
+    Hi, I'm Dharshini M K
   </text>
 
-  
   <text
-    x="95"
-    y="220"
+    x="80"
+    y="235"
     fill="#C9D1D9"
     font-family="Arial, Helvetica, sans-serif"
-    font-size="28"
+    font-size="26"
     font-weight="500">
     Full Stack Developer
   </text>
 
-  
   <text
-    x="95"
+    x="80"
     y="275"
     fill="#58A6FF"
     font-family="Arial, Helvetica, sans-serif"
-    font-size="24"
-    font-weight="600">
+    font-size="20"
+    font-weight="400">
     Building systems, one project at a time
   </text>
 
+  <!-- RIGHT SIMPLE DECOR (very subtle dots, no icons) -->
+  <g opacity="0.15" fill="#58A6FF">
+    <circle cx="1000" cy="120" r="3"/>
+    <circle cx="1030" cy="120" r="3"/>
+    <circle cx="1060" cy="120" r="3"/>
 
-  <text
-    x="940"
-    y="210"
-    fill="#58A6FF"
-    opacity="0.75"
-    font-family="Consolas, monospace
-    font-size="72"
-    font-weight="700">
-    &lt;/&gt;
-  </text>
-
-  <text
-    x="1020"
-    y="280"
-    fill="#7C3AED"
-    opacity="0.75"
-    font-family="Consolas, monospace"
-    font-size="64"
-    font-weight="700">
-    { }
-  </text>
-
-
-  <rect x="0" y="392" width="1200" height="8" fill="url(#accent)"/>
+    <circle cx="1000" cy="150" r="3"/>
+    <circle cx="1030" cy="150" r="3"/>
+    <circle cx="1060" cy="150" r="3"/>
+  </g>
 
 </svg>
-```
