@@ -7,9 +7,15 @@
 </h3>
 
 <p align="center">
-[![GitHub followers](https://img.shields.io/github/followers/Dharshinimk-521?label=Follow&style=for-the-badge)](https://github.com/Dharshinimk-521)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dharshini-m-k/)
-![Profile views](https://komarev.com/ghpvc/?username=Dharshinimk-521&label=Profile%20views&color=0e75b6&style=flat)
+  <a href="https://github.com/Dharshinimk-521">
+    <img src="https://img.shields.io/github/followers/Dharshinimk-521?label=Follow&style=for-the-badge" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/dharshini-m-k/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=Dharshinimk-521&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ## About Me
@@ -21,11 +27,11 @@ I enjoy building things that solve meaningful problems. The moment a carefully t
 
 ## 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Dharshinimk-521&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Dharshinimk-521&show_icons=true&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshinimk-521&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshinimk-521&layout=compact&theme=dark)
 
-![](https://streak-stats.demolab.com?user=Dharshinimk-521)
+![](https://streak-stats.demolab.com?user=Dharshinimk-521&theme=dark)
 
 ## Recent Projects
 
