@@ -13,6 +13,9 @@
 
   <img src="https://komarev.com/ghpvc/?username=Dharshinimk-521&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dharshinimk-521&theme=dark&hide_border=true" />
+</p>
 
 ## About Me
 
